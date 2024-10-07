@@ -20,7 +20,7 @@ type ScheduleInput struct {
 
 type Schedule struct {
 	Name string            `json:"name"`
-	Days map[string]string `json:"days"` // Key is day, value is WFO/WFH
+	Days map[string]string `json:"days"`
 }
 
 var weekdays = []string{"Senin", "Selasa", "Rabu", "Kamis", "Jumat"}
