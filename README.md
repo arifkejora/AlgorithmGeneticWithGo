@@ -1,4 +1,4 @@
-# AlgorithmGeneticWithGo
+# Algorithm Genetic With Go
 
 This program is a web application built using the Go programming language and the Gin framework to generate employee work schedules using a genetic algorithm. The application allows users to input employee names and produces optimal work schedules where each employee has 1 work-from-home (WFH) day and 4 in-office (WFO) days per week.
 
